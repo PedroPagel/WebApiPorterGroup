@@ -1,0 +1,12 @@
+WebApiPorterGroup/Infrastructure/bin/
+WebApiPorterGroup/Repository/obj/
+WebApiPorterGroup/WebApiPorterGroup/bin/
+WebApiPorterGroup/WebApiPorterGroup/obj/
+WebApiPorterGroup/Infrastructure/obj/
+WebApiPorterGroup/TestProject/obj/
+WebApiPorterGroup/Entities/bin/
+WebApiPorterGroup/TestProject/bin/
+WebApiPorterGroup/.vs/
+WebApiPorterGroup/Contracts/bin/
+WebApiPorterGroup/Contracts/obj/
+WebApiPorterGroup/Repository/bin/
